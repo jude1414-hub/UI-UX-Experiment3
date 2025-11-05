@@ -1,9 +1,17 @@
-# UI-UX-Experiment3
+UI-UX-Experiment3
+Aim:
+To Heuristic Evaluation of an Existing Website or App
 
-## Aim:
+Algorithm:
+1.Select and Compare 2–3 Competitor Apps/Websites
 
-## Algorithm:
+2.Perform Heuristic Evaluation
 
-## Output:
+3.Analyze and Document Findings
 
-## Result:
+4.Propose and Apply Improvements
+
+Output:
+UI UX
+Result:
+The Heuristic Evaluation of an Existing Website or App is created and verified.
